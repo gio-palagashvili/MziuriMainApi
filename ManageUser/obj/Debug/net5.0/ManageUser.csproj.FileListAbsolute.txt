@@ -1,0 +1,16 @@
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\obj\Debug\net5.0\ManageUser.csprojAssemblyReference.cache
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\obj\Debug\net5.0\ManageUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\obj\Debug\net5.0\ManageUser.AssemblyInfoInputs.cache
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\obj\Debug\net5.0\ManageUser.AssemblyInfo.cs
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\obj\Debug\net5.0\ManageUser.csproj.CoreCompileInputs.cache
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\bin\Debug\net5.0\ManageUser.dll.config
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\bin\Debug\net5.0\ManageUser.deps.json
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\bin\Debug\net5.0\ManageUser.dll
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\bin\Debug\net5.0\ref\ManageUser.dll
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\bin\Debug\net5.0\ManageUser.pdb
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\bin\Debug\net5.0\Common.dll
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\bin\Debug\net5.0\Common.pdb
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\obj\Debug\net5.0\ManageUser.csproj.CopyComplete
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\obj\Debug\net5.0\ManageUser.dll
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\obj\Debug\net5.0\ref\ManageUser.dll
+C:\Users\Gio\Documents\c#\MainProjectApi\ManageUser\obj\Debug\net5.0\ManageUser.pdb

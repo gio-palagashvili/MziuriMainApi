@@ -1,0 +1,12 @@
+C:\Users\Gio\Documents\c#\MainProjectApi\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Gio\Documents\c#\MainProjectApi\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Gio\Documents\c#\MainProjectApi\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\Gio\Documents\c#\MainProjectApi\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Gio\Documents\c#\MainProjectApi\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+C:\Users\Gio\Documents\c#\MainProjectApi\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gio\Documents\c#\MainProjectApi\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Gio\Documents\c#\MainProjectApi\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Gio\Documents\c#\MainProjectApi\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Gio\Documents\c#\MainProjectApi\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Gio\Documents\c#\MainProjectApi\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\Gio\Documents\c#\MainProjectApi\Common\obj\Debug\net5.0\Common.pdb
